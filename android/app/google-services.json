@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "199712969981",
+    "firebase_url": "https://cross-sms.firebaseio.com",
+    "project_id": "cross-sms",
+    "storage_bucket": "cross-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199712969981:android:eeb5c3eb846f0fcee89a94",
+        "android_client_info": {
+          "package_name": "com.example.emkanclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199712969981-j5shkd1mm9l53j1elsoip002ujbr1cis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emkanclient",
+            "certificate_hash": "06c05dd5be799e203452e0fc91b2c8ac10d1007b"
+          }
+        },
+        {
+          "client_id": "199712969981-is5d2o6t7ai68c821u6bt020j5c09cq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXx_8MgwWWeodwpfwPyn5NbfLR1mJ6C-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199712969981-is5d2o6t7ai68c821u6bt020j5c09cq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199712969981:android:4a816b87edf03193e89a94",
+        "android_client_info": {
+          "package_name": "com.example.notification1app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199712969981-is5d2o6t7ai68c821u6bt020j5c09cq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXx_8MgwWWeodwpfwPyn5NbfLR1mJ6C-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199712969981-is5d2o6t7ai68c821u6bt020j5c09cq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199712969981:android:897b9ff178994345e89a94",
+        "android_client_info": {
+          "package_name": "com.example.petsmedical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199712969981-is5d2o6t7ai68c821u6bt020j5c09cq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXx_8MgwWWeodwpfwPyn5NbfLR1mJ6C-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199712969981-is5d2o6t7ai68c821u6bt020j5c09cq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

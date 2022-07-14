@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>199712969981-a0lfag5m1714smjsht09c7edicc4qmm2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.199712969981-a0lfag5m1714smjsht09c7edicc4qmm2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>199712969981-j5shkd1mm9l53j1elsoip002ujbr1cis.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIHvjrjHyqIvlenVrMi9dgobCaS7OuYf4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>199712969981</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.emkanclient</string>
+	<key>PROJECT_ID</key>
+	<string>cross-sms</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cross-sms.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:199712969981:ios:c8f018af478209e0e89a94</string>
+	<key>DATABASE_URL</key>
+	<string>https://cross-sms.firebaseio.com</string>
+</dict>
+</plist>

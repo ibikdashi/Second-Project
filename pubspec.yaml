@@ -1,0 +1,41 @@
+name: emkanclient
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  google_maps_flutter: ^0.5.11
+  webview_flutter: ^1.0.7
+  url_launcher: ^5.7.10
+  linkable:
+  flutter_form_builder:
+  #^5.0.0
+  firebase_database:
+  flutter_custom_clippers: ^1.1.1
+  fluttertoast: ^7.1.6
+  firebase_auth:
+  #^0.18.4
+  intl:
+    #^0.17.0
+  onesignal_flutter: ^2.2.0
+  http:
+  #firebase_core: ^0.7.0
+  #firebase_database: ^6.0.0
+  #firebase_auth: ^0.20.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - images/
